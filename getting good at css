@@ -1,0 +1,74 @@
+</div>
+
+<div id="circle2">
+
+</div>
+
+<div id="rectangle">
+
+</div>
+	<style>
+  #square {
+	width: 500px;
+	height: 700px;
+	background: black;
+  border-radius: 30px;
+}
+
+#square2{
+	width: 450px;
+	height: 630px;
+	background: white;
+ position: relative;
+  border-radius: 30px;
+  bottom: 665px;
+  left: 25px;
+}
+
+#square3 {
+	width: 390px;
+	height: 550px;
+	background: grey;
+ position: relative;
+  border-radius: 20px;
+  bottom: 1265px;
+  left: 55px;
+}
+
+
+#circle {
+	width: 70px;
+	height: 70px;
+	background: black;
+  position: relative;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+  bottom: 1280px;
+  left: 215px;
+}
+
+
+#circle2 {
+	width: 50px;
+	height: 50px;
+	background: white;
+  position: relative;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  bottom: 1340px;
+  left: 225px;
+}
+
+#rectangle {
+	width: 100px;
+	height: 20px;
+	background: black;
+  position: relative;
+  border-radius: 20px;
+  bottom: 1960px;
+  left: 190px;
+}
+
+  </style>
