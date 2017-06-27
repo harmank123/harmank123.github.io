@@ -1,0 +1,144 @@
+<div id="circle"></div>
+
+<div id="circle2">
+
+</div> 
+<div id="circle3">
+
+</div>
+
+<div id="circle4">
+
+</div>
+<div id="circle5">
+  
+</div>
+<div id="circle6">
+</div>
+<div id="circle7">
+</div>
+<div id="circle8">
+
+</div>
+<div id="half">
+
+</div>
+<style>
+#circle {
+  width: 700px;
+  height: 700px;
+  background: red;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+}
+
+
+/* Cleaner, but slightly less support: use "50%" as value */
+
+#circle2{
+  position: relative;
+  width: 680px;
+  height: 680px;
+  background: orange;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 690px;
+  left: 10px;
+}
+
+#circle3{
+  position: relative;
+  width: 670px;
+  height: 670px;
+  background: yellow;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 1365px;
+  left: 15px;
+}
+
+#circle2{
+  position: relative;
+  width: 680px;
+  height: 680px;
+  background: orange;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 690px;
+  left: 10px;
+}
+
+#circle4{
+  position: relative;
+  width: 655px;
+  height: 655px;
+  background: green;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 2029px;
+  left:23px;
+ 
+ }
+ #circle5{
+  position: relative;
+  width: 645px;
+  height: 645px;
+  background: lightblue;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 2680px;
+  left:28px;
+ 
+}
+ #circle6{
+  position: relative;
+  width: 634px;
+  height: 634px;
+  background:darkblue ;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 3320px;
+  left:33px;
+ 
+ }
+ #circle7{
+  position: relative;
+  width: 624px;
+  height: 624px;
+  background:purple ;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 3950px;
+  left:39px;
+ 
+ }
+  #circle8{
+  position: relative;
+  width: 614px;
+  height: 614px;
+  background:white ;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50%;
+  bottom: 4570px;
+  left:44px;
+ 
+ }
+ 
+ #half {
+   position: relative;
+	width: 800px;
+	height: 800px;
+	background: white;
+  bottom: 4900px;
+}
+			
+</style>
