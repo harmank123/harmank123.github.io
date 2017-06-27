@@ -1,0 +1,62 @@
+<div id="triangle-up">
+
+</div>
+
+<div id="square">
+
+</div>
+
+<div id="window">
+
+</div>
+
+<div id="window2">
+
+</div>
+
+<div id="rectangle">
+
+</div>
+<style>
+#triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid ;
+}
+
+#square {  
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+#window {
+	width: 35px;
+	height: 35px;
+	background: white;
+  position: relative;
+  bottom: 95px;
+  left: 5px;
+}
+
+#window2 {
+	width: 35px;
+	height: 35px;
+	background: white;
+  position: relative;
+  bottom: 129px;
+  left: 60px;
+}
+
+
+#rectangle {
+	width: 40px;
+	height: 50px;
+	background: black;
+  position: relative;
+  bottom: 120px;
+  left:30px;
+}
+</style>
